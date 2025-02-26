@@ -9,6 +9,9 @@ This is a repository template to streamline the process of getting started with 
 
 > NOTE: This repository is configured to use the latest daily builds of .NET Aspire. Use the https://github.com/dotnet/aspire-devcontainer repository as a template for the latest _released_ bits. If you are a member of the .NET Aspire team you can create a codespace directly from this repository to speed up the spin-up time for a Devcontainer for testing purposes. The `devcontainer.json` includes additional features which are more common for internal team testing scenarios.
 
-# Contributing
+# Code of Conduct
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the code of conduct defined by the Contributor Covenant
+to clarify expected behavior in our community.
+
+For more information, see the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct).
