@@ -29,7 +29,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "dotnet restore",
-	"onCreateCommand": "dotnet new install Aspire.ProjectTemplates::*-* --force",
+	"onCreateCommand": "dotnet new install Aspire.ProjectTemplates::*-* --force && dotnet tool install -g Aspire.Cli --prerelease",
 	"postStartCommand": "dotnet dev-certs https --trust",
 	"customizations": {
 		"vscode": {
@@ -42,8 +42,6 @@
 			]
 		}
 	}
-	// Configure tool-specific properties.
-	// "customizations": {},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
