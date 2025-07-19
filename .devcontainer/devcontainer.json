@@ -44,7 +44,8 @@
 				"ms-azuretools.azure-dev",
 				"GitHub.copilot-chat",
 				"GitHub.copilot",
-				"ms-kubernetes-tools.vscode-kubernetes-tools"
+				"ms-kubernetes-tools.vscode-kubernetes-tools",
+				"microsoft-aspire.aspire-vscode"
 			]
 		}
 	}
